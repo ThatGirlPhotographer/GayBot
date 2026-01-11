@@ -1,7 +1,7 @@
 # Security Policy
 
 ## Reporting a Vulnerability
-If you discover a security vulnerability, please email <a href="mailto:support@girlsnetwork.dev">support@girlsnetwork.dev</a> with details. You may also open a private issue if you prefer.
+If you discover a security vulnerability, please email <a href="mailto:support@lemiverse.win">support@lemiverse.win</a> with details. You may also open a private issue if you prefer.
 
 ## Supported Versions
 Only the latest version of this repository is supported for security updates.
