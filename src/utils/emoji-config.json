@@ -1,72 +1,97 @@
 [
     {
-        "emoji": "🏳️‍🌈",
+        "emoji": "<:gay:1459867527877230774>",
         "title": "Gay Flag",
         "keywords": ["gay", "homo", "gaii", "gae", "queer", "lgbt", "mlm", "men", "gaybot", "gayer", "gayy", "m4m"]
     },
     {
-        "emoji": "<:girl_lesbian_flag:1406109269971046462>",
+        "emoji": "<:lesbian:1459868094456664149>",
         "title": "Lesbian Flag",
         "keywords": ["lesb", "lesbian", "wlw", "lesbi", "women", "girls", "sapphic", "northampton", "lipstick", "femme", "butch", "lesbians", "lesbianism", "lesbiab", "w4w"]
     },
     {
-        "emoji": "<:girl_lesbean:1410684874536386742>",
-        "title": "Lesbean",
-        "keywords": ["lesbean", "les bean", "les-bean", "bean", "beanie"]
-    },
-    {
-        "emoji": "🏳️‍⚧️",
+        "emoji": "<:trans:1459867421463675047>",
         "title": "Trans Flag",
         "keywords": ["trans", "tranz", "transgender", "sans", "ftm", "mtf", "transfem", "transmasc", "transfemme", "transfeminine", "transmasculine", "t4t"]
     },
     {
-        "emoji": "<:girl_bisexual_flag:1411763935987630153>",
+        "emoji": "<:bisexual:1459867990156640418>",
         "title": "Bisexual Flag",
         "keywords": ["bi", "bisexual"]
     },
     {
-        "emoji": "<:girl_flag_nonbinary:1425552404312625233>",
+        "emoji": "<:nonbinary:1459867871927599165>",
         "title": "Non-Binary Flag",
         "keywords": ["nb", "enby", "non binary", "femby", "non-binary", "frisk"]
     },
     {
-        "emoji": "<:girl_aromantic_flag:1411764471768027267>",
+        "emoji": "<:aromantic:1459867476056735998>",
         "title": "Aromantic Flag",
         "keywords": ["aro", "aromantic", "aroace"]
     },
     {
-        "emoji": "<:girl_omni_flag:1407073031980847124>",
+        "emoji": "<:omni:1459869879942385777>",
         "title": "Omnisexual Flag",
         "keywords": ["omni", "omnisexual"]
     },
     {
-        "emoji": "<:girl_flag_pan:1427028280036561026>",
+        "emoji": "<:pansexual:1459868159166120129>",
         "title": "Pansexual Flag",
         "keywords": ["pan", "pansexual", "panromantic", "pan-spec"]
     },
     {
-        "emoji": "<:girl_asexual_flag:1411764530471637063>",
+        "emoji": "<:asexual:1459867350693183640>",
         "title": "Asexual Flag",
         "keywords": ["ace", "asexual", "demi", "grey-ace", "aroace", "a-spec"]
     },
     {
-        "emoji": "<:girl_lesbianCat:1423465325306839133>",
-        "title": "UwU",
-        "keywords": ["uwu", "owo", ":3", ";3", "^w^", "qwp", "xd", ":>", "teehee"]
+        "emoji": "<:demiromantic:1459868951902290082>",
+        "title": "Demiromantic Flag",
+        "keywords": ["demiromantic", "aro", "a-spec"]
     },
     {
-        "emoji": "<:girl_gotobed:1429282327334355047>",
-        "title": "Tired",
-        "keywords": ["tired", "sleepy", "eepy", "sleep", "nappy", "snooze", "exhausted", "zzz", "eepers"]
+        "emoji": "<:demisexual:1459867646945132769>",
+        "title": "Demisexual Flag",
+        "keywords": ["demi", "demisexual", "ace", "a-spec"]
     },
     {
-        "emoji": "<:girl_mikuBwaa:1419503673230495756>",
-        "title": "Miku",
-        "keywords": ["miku", "hatsune", "vocaloid", "leek", "1db", "cure", "polkka"]
+        "emoji": "<:genderfluid:1459868261960388638>",
+        "title": "Genderfluid Flag",
+        "keywords": ["genderfluid", "fluid", "gender"]
     },
     {
-        "emoji": "<:girl_tetoBwaa:1454541284994846730>",
-        "title": "Teto",
-        "keywords": ["teto", "katsane", "pear", "utau", "override", "tetoris"]
+        "emoji": "<:genderqueer:1459868546195656876>",
+        "title": "Genderqueer Flag",
+        "keywords": ["genderqueer", "queer", "gender"]
+    },
+    {
+        "emoji": "<:intersex:1459867585448378393>",
+        "title": "Intersex Flag",
+        "keywords": ["intersex", "variations"]
+    },
+    {
+        "emoji": "<:polyamorous:1459867736917152002>",
+        "title": "Polyamorous Flag",
+        "keywords": ["poly", "polyamorous", "polyamory"]
+    },
+    {
+        "emoji": "<:polysexual:1459868709526048792>",
+        "title": "Polysexual Flag",
+        "keywords": ["polysexual", "poly"]
+    },
+    {
+        "emoji": "<:trigender:1459868431397425183>",
+        "title": "Trigender Flag",
+        "keywords": ["trigender", "gender"]
+    },
+    {
+        "emoji": "<:ally:1459867808887214274>",
+        "title": "Ally Flag",
+        "keywords": ["ally", "straight ally", "support"]
+    },
+    {
+        "emoji": "<:progress:1459868800060227760>",
+        "title": "Progress Pride Flag",
+        "keywords": ["progress", "pride", "lgbtqia", "inclusion"]
     }
 ]
