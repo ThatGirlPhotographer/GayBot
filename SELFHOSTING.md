@@ -15,7 +15,7 @@ To install docker, see this install guide [here](https://docs.docker.com/engine/
 You will need to clone the repository to your machine using git.
 
 ```sh
-git clone https://github.com/Girls-Development-Team/GayBot
+git clone https://github.com/ThatGirlPhotographer/GayBot
 ```
 
 You will then need to copy the .env.example to .env
